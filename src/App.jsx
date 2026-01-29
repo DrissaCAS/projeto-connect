@@ -7,6 +7,7 @@ import Mentoria from "./pages/mentoria/mentoria";
 import Eventos from "./pages/eventos/eventos";
 import Usuario from "./pages/usuario/Usuario";
 import Header from "./components/header/Header";
+import Footer from "./components/footer/Footer";
 
 
 
@@ -22,6 +23,7 @@ const App = () => {
         <Route path="/eventos" element={<Eventos />} />
         <Route path="/usuario" element={<Usuario />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   )
 }
