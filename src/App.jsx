@@ -3,8 +3,8 @@ import "./globalStyle.scss"
 import Home from "./pages/home/Home";
 import Doacao from "./pages/doacao/Doacao";
 import Voluntariado from "./pages/voluntariado/Voluntariado";
-import Mentoria from "./pages/mentoria/mentoria";
-import Eventos from "./pages/eventos/eventos";
+import Mentoria from "./pages/mentoria/Mentoria";
+import Eventos from "./pages/eventos/Eventos";
 import Usuario from "./pages/usuario/Usuario";
 import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
